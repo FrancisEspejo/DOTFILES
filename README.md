@@ -3,6 +3,7 @@
 > Personal configuration files for my Linux desktop environment.
 
 ![Desktop](Assets/desktop.png)
+![Desktop](Assets/desktop2.png)
 
 ## Overview
 
