@@ -1,0 +1,32 @@
+font_family      JetBrainsMono Nerd Font
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+font_size        11.0          
+# prueba 12.5 o 14 según tu pantalla
+
+# Apariencia limpia
+window_padding_width  10
+background_opacity    0.92
+dynamic_background_opacity yes
+
+# Cursor
+cursor_shape          beam
+cursor_beam_thickness 1.5
+
+# Rendimiento (recomendado en Linux)
+repaint_delay         10
+input_delay           3
+sync_to_monitor       yes
+
+# Scrollback decente
+scrollback_lines      10000
+
+# Mouse
+mouse_hide_wait       -1.0
+
+# Terminal
+shell /usr/bin/zsh
+
+hide_window_decorations yes
+shell_integration no-title
